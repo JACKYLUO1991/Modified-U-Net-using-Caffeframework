@@ -6,3 +6,5 @@ Automatic segmentation of retinal blood vessels from fundus images plays a key r
 ![vessel3](https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/picture/03_test.png)
 ![vessel4](https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/picture/04_test.png)
 ![vessel5](https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/picture/05_test.png)
+
+<img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/picture/01_test.png" width="150" height="150" alt="vessel1"/>
