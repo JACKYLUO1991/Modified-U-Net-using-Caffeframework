@@ -11,7 +11,7 @@ def conv_relu(data, nout, ks=3, stride=1, pad=1):
 def max_pool(data, ks=2, stride=2):
     return L.Pooling(data, pool=P.Pooling.MAX, kernel_size=ks, stride=stride)
 
-def u_net(split):
+def modified_u_net(split):
     n = caffe.NetSpec()
     pydata_params = dict(split=split, mean=(41.4661, 69.1061, 126.993),
             seed=1337)
@@ -72,10 +72,10 @@ def u_net(split):
 
 def make_net():
     with open('train.prototxt', 'w') as f:
-        f.write(str(u_net('train')))
+        f.write(str(modified_u_net('train')))
 
     with open('val.prototxt', 'w') as f:
-        f.write(str(u_net('val')))
+        f.write(str(modified_u_net('val')))
 
 # show all avaliable caffe layer
 def print_layers():

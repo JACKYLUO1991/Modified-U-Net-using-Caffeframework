@@ -5,7 +5,7 @@ from math import ceil
 from numpy import zeros, arange
 import matplotlib.pyplot as plt
 
-# solver from already weights
+# solver from already exit weights
 use_gpu=1
 weights = 'caffemodel/1_4/_iter_20000.caffemodel'
 
