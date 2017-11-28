@@ -11,4 +11,4 @@
   
 #### roc curve
 <div align=center>
-    <img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/ROC.png" width="500" height="500" alt="vessel1"/></div>
+    <img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/ROC.png" alt="roc_curve"/></div>
