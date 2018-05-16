@@ -11,7 +11,7 @@
     <img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/ROC.png" alt="roc_curve"/></div></div>
 
 ### LICENSE 
-MIT
+MIT License
 
 ### Questions
 Emails： 1790053122@qq.com   A Ph.D from Northeastern University, China
