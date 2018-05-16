@@ -9,6 +9,9 @@
 <img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/picture/05_test.png" width="150" height="150" alt="vessel5"/</div>
 <div align=center>
     <img src="https://github.com/actionLUO/Modified-U-Net-using-Caffeframework/blob/master/ROC.png" alt="roc_curve"/></div></div>
-  
+
+### LICENSE 
+MIT
+
 ### Questions
 Emails： 1790053122@qq.com   A Ph.D from Northeastern University, China
