@@ -15,3 +15,15 @@ MIT License
 
 ### Questions
 Emails： 1790053122@qq.com   A Ph.D from Northeastern University, China
+
+## Please cite by:
+```
+@inproceedings{luo2018retinal,
+  title={Retinal blood vessels semantic segmentation method based on modified U-Net},
+  author={Luo, Ling and Chen, Dali and Xue, Dingyu},
+  booktitle={2018 Chinese Control And Decision Conference (CCDC)},
+  pages={1892--1895},
+  year={2018},
+  organization={IEEE}
+}
+```
